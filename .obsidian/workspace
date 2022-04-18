@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "d90f7baec714323a",
+    "type": "split",
+    "children": [
+      {
+        "id": "be50467a2bdef42a",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20220418132956.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6f1dfff732264bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "496c8f703c7d2970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7f4b203fcbc1d2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "775cc17b183181d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c60eb70a485bc535",
+    "type": "split",
+    "children": [
+      {
+        "id": "18819bc3b8e5174e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e888858a068a9b4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20220418132956.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "be50467a2bdef42a",
+  "lastOpenFiles": [
+    "Pasted image 20220418132956.png",
+    "Pasted image 20220418132933.png",
+    "Pasted image 20220414184604.png.md",
+    "ec2.md",
+    "00 - index.md",
+    "s3.md",
+    "Untitled 1.md"
+  ]
+}
